@@ -21,6 +21,15 @@ _Please send me a Slack message if you want to be paired with another student fo
 
 # Weekly Assignments
 
+### Rails Week 2: November 30, 2020
+#### This week's focus: CRUD in Rails
+
+* Day 1 - Rails: Intro to ActionView (4 Lessons)
+* Day 2 - Rails: CRUD with Rails (Index, Show, New, Create Lab) (3 Lessons)
+* Day 3 - Rails: CRUD with Rails (Strong Params Basics) (3 Lessons)
+* Day 4 - Rails: CRUD with Rails (Rails Generators) (3 Lessons)
+* Day 5 - Rails: CRUD with Rails (Finish) (3 Lessons)
+
 ### Rails Week 1: November 16, 2020
 #### This week's focus: Intro to Rails
 
@@ -146,6 +155,8 @@ _Please send me a Slack message if you want to be paired with another student fo
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Rails Week 2**|
+| Recorded Lecture: Rails CRUD & Routing | [Video](https://youtu.be/63PAklNjSdQ) | n/a |
 |**Rails Week 1**|
 | Live Lecture: Intro to Rails (NOTE: middle of our lecture did not get recorded, also posting full version of Intro to Rails lecture from previous cohort) | [072720 Video - shortened](https://youtu.be/_DCushf9IYM), [previous cohort Intro to Rails Video](https://youtu.be/trOaCdURuUY) | [Rails webpacker error troubleshooting](https://github.com/learn-co-curriculum/rails-application-basics-readme/issues/19), [bundler tzinfo warning troubleshooting](https://github.com/tzinfo/tzinfo-data/issues/12) |
 |**Sinatra Week 8**|
