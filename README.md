@@ -16,10 +16,18 @@ _Pod Meetings occur at the same time each week in one-hour slots. It is STRONGLY
 _Please send me a Slack message if you want to be paired with another student for weekly pair programming sessions! This is a great way to practice collaborating with other developers in a low-pressure environment!_
 
 ## Announcements and Reminders for This Week
-1. Welcome to RAILS! We will have a series of office hours this week, found on the cohort calendar.
-2. Next week is a break week! No lectures, Pod meetings, 1-1s, or required lessons.
+YAY Rails!!!
 
 # Weekly Assignments
+
+### Rails Week 3: December 7, 2020
+#### This week's focus: Validations & Forms
+
+* Day 1 - Rails: Validations and Forms (Validations In Controller Actions Lab) (4 Lessons)
+* Day 2 - Rails: Validations and Forms (Validations With Form_for) (3 Lessons)
+* Day 3 - Rails: Validations and Forms (Finish) (3 Lessons)
+* Day 4 - Rails: Associations and Rails (ActiveRecord Lifecycle Methods) (3 Lessons)
+* Day 5 - Rails: Associations and Rails (Forms And Basic Associations Lab) (4 Lessons)
 
 ### Rails Week 2: November 30, 2020
 #### This week's focus: CRUD in Rails
