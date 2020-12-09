@@ -16,10 +16,18 @@ _Pod Meetings occur at the same time each week in one-hour slots. It is STRONGLY
 _Please send me a Slack message if you want to be paired with another student for weekly pair programming sessions! This is a great way to practice collaborating with other developers in a low-pressure environment!_
 
 ## Announcements and Reminders for This Week
-1. Welcome to RAILS! We will have a series of office hours this week, found on the cohort calendar.
-2. Next week is a break week! No lectures, Pod meetings, 1-1s, or required lessons.
+YAY Rails!
 
 # Weekly Assignments
+
+### Rails Week 3: December 7, 2020
+#### This week's focus: Validations & Forms
+
+* Day 1 - Rails: Validations and Forms (Validations In Controller Actions Lab) (4 Lessons)
+* Day 2 - Rails: Validations and Forms (Validations With Form_for) (3 Lessons)
+* Day 3 - Rails: Validations and Forms (Finish) (3 Lessons)
+* Day 4 - Rails: Associations and Rails (ActiveRecord Lifecycle Methods) (3 Lessons)
+* Day 5 - Rails: Associations and Rails (Forms And Basic Associations Lab) (4 Lessons)
 
 ### Rails Week 2: November 30, 2020
 #### This week's focus: CRUD in Rails
@@ -33,7 +41,7 @@ _Please send me a Slack message if you want to be paired with another student fo
 ### Rails Week 1: November 16, 2020
 #### This week's focus: Intro to Rails
 
-* Day 1 -  Rails: Introduction to Rails (Rails MVC) (3 Lessons)
+* Day 1 - Rails: Introduction to Rails (Rails MVC) (3 Lessons)
 * Day 2 - Rails: Introduction to Rails (Finish) (3 Lessons)
 * Day 3 - Rails: Model Basics (2 Lessons)
 * Day 4 - Rails: Intro to REST (RESTful Action Index Lab) (2 Lessons)
@@ -155,8 +163,12 @@ _Please send me a Slack message if you want to be paired with another student fo
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Rails Week 3**|
+| Live Lecture: Rails Validations | [Video](https://youtu.be/jHaaibuUWoI) | [Code](https://github.com/allisonkadel/online-web-pt-072720/tree/master/lectures/rails-validations), [Rails Guies - Validations](https://guides.rubyonrails.org/active_record_validations.html) | 
+| Office Hours | | |
 |**Rails Week 2**|
 | Recorded Lecture: Rails CRUD & Routing | [Video](https://youtu.be/63PAklNjSdQ) | n/a |
+| Pod Meeting Code Challenge | n/a | [Rails CRUD Code Challenge](https://github.com/allisonkadel/rails-crud-code-challenge)
 |**Rails Week 1**|
 | Live Lecture: Intro to Rails (NOTE: middle of our lecture did not get recorded, also posting full version of Intro to Rails lecture from previous cohort) | [072720 Video - shortened](https://youtu.be/_DCushf9IYM), [previous cohort Intro to Rails Video](https://youtu.be/trOaCdURuUY) | [Rails webpacker error troubleshooting](https://github.com/learn-co-curriculum/rails-application-basics-readme/issues/19), [bundler tzinfo warning troubleshooting](https://github.com/tzinfo/tzinfo-data/issues/12) |
 |**Sinatra Week 8**|
