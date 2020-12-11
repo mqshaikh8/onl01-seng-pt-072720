@@ -164,8 +164,9 @@ YAY Rails!
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
 |**Rails Week 3**|
-| Live Lecture: Rails Validations | [Video](https://youtu.be/jHaaibuUWoI) | [Code](https://github.com/allisonkadel/online-web-pt-072720/tree/master/lectures/rails-validations), [Rails Guies - Validations](https://guides.rubyonrails.org/active_record_validations.html) | 
-| Office Hours | | |
+| Live Lecture: Rails Validations | [Video](https://youtu.be/jHaaibuUWoI) | [Code](https://github.com/allisonkadel/online-web-pt-072720/tree/master/lectures/rails-validations), [Rails Guides - Validations](https://guides.rubyonrails.org/active_record_validations.html) | 
+| Office Hours: Forms & Associations | [Video](https://youtu.be/zemJ4UUEcaE) | same as live lecture |
+| Pod Meeting Code Challenge | n/a | [Rails Validations Code Challenge](https://github.com/allisonkadel/rails-validations-code-challenge)
 |**Rails Week 2**|
 | Recorded Lecture: Rails CRUD & Routing | [Video](https://youtu.be/63PAklNjSdQ) | n/a |
 | Pod Meeting Code Challenge | n/a | [Rails CRUD Code Challenge](https://github.com/allisonkadel/rails-crud-code-challenge)
