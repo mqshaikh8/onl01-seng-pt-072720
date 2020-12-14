@@ -16,9 +16,18 @@ _Pod Meetings occur at the same time each week in one-hour slots. It is STRONGLY
 _Please send me a Slack message if you want to be paired with another student for weekly pair programming sessions! This is a great way to practice collaborating with other developers in a low-pressure environment!_
 
 ## Announcements and Reminders for This Week
-YAY Rails!
+YAY Rails! Halfway through!
 
 # Weekly Assignments
+
+### Rails Week 4: December 14, 2020
+#### This week's focus: Associations and Dynamic Views
+
+* Day 1 - Rails: Associations and Rails (Basic Nested Forms Lab) (2 Lessons)
+* Day 2 - Rails: Associations and Rails (Displaying Has Many Through Lab) (2 Lessons)
+* Day 3 - Rails: Associations and Rails (Finish) (4 Lessons)
+* Day 4 - Rails: Layouts and Partials (Layouts And Templates In Rails Lab) (2 Lessons)
+* Day 5 - Rails: Layouts and Partials (Finish) (4 Lessons)
 
 ### Rails Week 3: December 7, 2020
 #### This week's focus: Validations & Forms
