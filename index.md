@@ -172,6 +172,10 @@ YAY Rails! Halfway through!
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Rails Week 4**|
+| Recorded Lecture: Rails Partials & Nested Resources | [Video](https://youtu.be/4-d4yArbc54) | n/a |
+| Office Hours: Forms Associations | [Video](https://youtu.be/-rgQhAXtNFk) | same as Week 3 live lecture |
+| Walkthrough: Forms & Associations | [Video](https://youtu.be/uVG-x0Da53s) | n/a |
 |**Rails Week 3**|
 | Live Lecture: Rails Validations | [Video](https://youtu.be/jHaaibuUWoI) | [Code](https://github.com/allisonkadel/online-web-pt-072720/tree/master/lectures/rails-validations), [Rails Guides - Validations](https://guides.rubyonrails.org/active_record_validations.html) | 
 | Office Hours: Forms & Associations | [Video](https://youtu.be/zemJ4UUEcaE) | same as live lecture |
