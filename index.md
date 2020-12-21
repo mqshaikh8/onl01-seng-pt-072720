@@ -16,7 +16,7 @@ _Pod Meetings occur at the same time each week in one-hour slots. It is STRONGLY
 _Please send me a Slack message if you want to be paired with another student for weekly pair programming sessions! This is a great way to practice collaborating with other developers in a low-pressure environment!_
 
 ## Announcements and Reminders for This Week
-YAY Rails! Halfway through!
+YAY Rails!
 
 # Weekly Assignments
 
