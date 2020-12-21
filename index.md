@@ -20,6 +20,24 @@ YAY Rails! Halfway through!
 
 # Weekly Assignments
 
+### Rails Week 6: January 4, 2021
+#### This week's focus: Authentication
+
+* Day 1 - Rails: Authentication (Cookies And Sessions Lab) (3 Lessons)
+* Day 2 - Rails: Authentication (Login Required Lab) (4 Lessons)
+* Day 3 - Rails: Authentication (Video Review: Authentication) (3 Lessons)
+* Day 4 - Rails: Authentication (Omniauth Lab) (3 Lessons)
+* Day 5 - Rails: Authentication (Finish), Rails: Popular Gems (3 Lessons)
+
+### Rails Week 5: December 21, 2020
+#### This week's focus: Helper Methods & Routes
+
+* Day 1 - Rails: Refactoring with Helpers and Model Methods (Refactoring Views With Helpers Lab) (3 Lessons)
+* Day 2 - Rails: Refactoring with Helpers and Model Methods (Finish) (2 Lessons)
+* Day 3 - Rails: Routes and Resources (Routing And Nested Resources Lab) (2 Lessons)
+* Day 4 - Rails: Routes and Resources (Modifying Nested Resources Lab) (2 Lessons)
+* Day 5 - Rails: Routes and Resources (Finish) (2 Lessons)
+
 ### Rails Week 4: December 14, 2020
 #### This week's focus: Associations and Dynamic Views
 
@@ -172,6 +190,7 @@ YAY Rails! Halfway through!
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Rails Week 5**|
 |**Rails Week 4**|
 | Recorded Lecture: Rails Partials & Nested Resources | [Video](https://youtu.be/4-d4yArbc54) | n/a |
 | Office Hours: Forms Associations | [Video](https://youtu.be/-rgQhAXtNFk) | same as Week 3 live lecture |
