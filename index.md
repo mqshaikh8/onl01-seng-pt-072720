@@ -191,6 +191,9 @@ YAY Rails!
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
 |**Rails Week 5**|
+| Live Lecture: Rails Routing | [Video](https://youtu.be/bF3tasJQruE) | [Code](https://github.com/allisonkadel/online-web-pt-072720/blob/master/lectures/rails-routing/NOTES.md) |
+| Office Hours | | |
+| Pod Meeting Code Challenge | | |
 |**Rails Week 4**|
 | Recorded Lecture: Rails Partials & Nested Resources | [Video](https://youtu.be/4-d4yArbc54) | n/a |
 | Office Hours: Forms Associations | [Video](https://youtu.be/-rgQhAXtNFk) | same as Week 3 live lecture |
