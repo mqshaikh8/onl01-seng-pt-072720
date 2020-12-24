@@ -190,6 +190,10 @@ YAY Rails!
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Rails Week 6**|
+| Recorded Lecture: Rails Authentication | [Video](https://youtu.be/EZZOSAzmA5w) | n/a |
+| Live Lecture (Eri): | | |
+| Office Hours (Eri) | | |
 |**Rails Week 5**|
 | Live Lecture: Rails Routing | [Video](https://youtu.be/bF3tasJQruE) | [Code](https://github.com/allisonkadel/online-web-pt-072720/blob/master/lectures/rails-routing/NOTES.md), [Rails Guides - Routing](https://guides.rubyonrails.org/routing.html) |
 | Office Hours | | |
