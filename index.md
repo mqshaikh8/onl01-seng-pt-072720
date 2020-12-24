@@ -193,7 +193,7 @@ YAY Rails!
 |**Rails Week 5**|
 | Live Lecture: Rails Routing | [Video](https://youtu.be/bF3tasJQruE) | [Code](https://github.com/allisonkadel/online-web-pt-072720/blob/master/lectures/rails-routing/NOTES.md), [Rails Guides - Routing](https://guides.rubyonrails.org/routing.html) |
 | Office Hours | | |
-| Pod Meeting Code Challenge | | [Rails Helpers, Partials, & Routing Code Challenge](https://github.com/allisonkadel/rails-helpers-partials-routing-code-challenge) |
+| Pod Meeting Code Challenge | [Video](https://youtu.be/CQqyrpq47hQ)| [Rails Helpers, Partials, & Routing Code Challenge](https://github.com/allisonkadel/rails-helpers-partials-routing-code-challenge) |
 |**Rails Week 4**|
 | Recorded Lecture: Rails Partials & Nested Resources | [Video](https://youtu.be/4-d4yArbc54) | n/a |
 | Office Hours: Forms Associations | [Video](https://youtu.be/-rgQhAXtNFk) | same as Week 3 live lecture |
