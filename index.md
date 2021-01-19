@@ -22,6 +22,7 @@ YAY Rails!
 
 ### Rails Project Weeks: January 11, 2021
 * [Rails Project Sample build series](https://youtube.com/playlist?list=PLNUiyK37z4zE6c945lDGryZ-MW7Fm1XpS)
+* [Booking link](https://go.oncehub.com/StructuredProgramRailsProjectReviews) for scheduling your assessment
 
 ### Rails Week 6: January 4, 2021
 #### This week's focus: Authentication
